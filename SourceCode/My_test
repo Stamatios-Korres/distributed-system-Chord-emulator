@@ -1,0 +1,12 @@
+insert, 1, 2
+insert, 1, 5
+query, 1
+query, 1
+query, 1
+insert, 3, 4
+query, 3
+query, 1
+delete, 1
+query, 1
+insert, 5, 9
+Join
